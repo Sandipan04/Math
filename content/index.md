@@ -1,5 +1,5 @@
 ---
-title: Sandipan's Math Notes
+title: Math Notes
 description: A collection of structured math notes
 ---
 
