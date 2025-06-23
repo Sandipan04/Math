@@ -10,6 +10,6 @@ This handout is aimed to be a reference for students trying to get a hang of var
 # 🧠 Topics
 
 - Algebra
-  -  [Groups](./Algebra/groups)
+  -  [Groups](./Algebra/Groups)
 - Analysis
 
